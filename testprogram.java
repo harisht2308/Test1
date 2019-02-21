@@ -9,5 +9,9 @@ b=300;
 c=100;
 c=a+b+c;
 System.out.printIn("sum of three"+c);
+ 
+}
+
+  }
 
 ]
